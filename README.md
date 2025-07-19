@@ -20,7 +20,7 @@ flowers into different species based on their sepal and petal
 measurements. This dataset is widely used for introductory
 classification tasks.
 
-# Task-3 : Credit card fraud detection
+# Task-3 : Credit Card Fraud Detection
 The Credit Card Fraud Detection dataset contains transactions made by credit card holders, labeled as either legitimate or fraudulent. Fraudulent transactions often exhibit patterns that differ from normal behavior, such as unusual amounts, locations, or transaction frequency.
 Your objective is to train a machine learning model that can learn from the historical transaction data and accurately distinguish between genuine and fraudulent transactions. Since fraudulent cases are rare compared to normal ones, this task also involves addressing class imbalance.
 Use this dataset to develop a model that can detect potentially fraudulent credit card transactions based on features derived from transaction details. This dataset is widely used for classification tasks involving anomaly detection and imbalanced data.
